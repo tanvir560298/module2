@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#div1{
+    width: 50%;
+    height: 50%;
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: 20px;
+    box-shadow: 10px 10px 20px blue;
+    color: blueviolet;
+}
+#div2{
+    margin: 20px;
+    width: 50%;
+    height: 50%;
+    border: 2px solid rgb(111, 123, 50);
+    border-radius: 12px;
+    box-shadow: 10px 10px 20px rgb(242, 255, 0);
+    color: #1f1571;
+}

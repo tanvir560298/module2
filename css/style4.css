@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.division{
+    border: 2px solid rgba(15, 12, 9, 0.615);
+    margin: 10px;
+    height: 400px;
+
+}
+
+#div1{
+    background-image: url('../images/ChatGPT\ Image\ Jul\ 7\,\ 2025\ at\ 03_49_03\ PM.png');
+    background-repeat: no-repeat;
+    background-size: 40px;
+}
+#div2{
+        background-image: url('../images/ChatGPT\ Image\ Jul\ 7\,\ 2025\ at\ 03_49_03\ PM.png');
+        background-size: 40px;
+    background-repeat: repeat-x;
+}
+#div3{
+        background-image: url('../images/ChatGPT\ Image\ Jul\ 7\,\ 2025\ at\ 03_49_03\ PM.png');
+        background-size: 40px;
+    background-repeat: repeat-y;
+}

@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#div2{
+    display: none;
+}
+#div3{
+ visibility: hidden;   
+} 
+.selectedp{
+    display: inline;
+}

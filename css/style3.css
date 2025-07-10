@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#div1{
+    background-color: aqua;
+}
+#div2{
+    background-color: rgba(86, 124, 124, 0.123);
+}
+#div3{
+    background-color: rgba(18, 110, 13, 0.158);
+}
+.division{
+    border: 2px solid rgb(206, 121, 18);
+    margin: 1rem;
+}
+p{
+    font-style: oblique;
+}
